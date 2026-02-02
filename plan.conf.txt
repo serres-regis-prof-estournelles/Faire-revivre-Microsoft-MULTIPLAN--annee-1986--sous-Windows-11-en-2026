@@ -1,0 +1,5 @@
+[autoexec]
+mount c C:\DOSGAMES
+c:
+cd MULTIPLA
+MP
