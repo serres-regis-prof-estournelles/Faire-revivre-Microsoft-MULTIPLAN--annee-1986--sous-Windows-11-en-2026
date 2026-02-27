@@ -1,6 +1,6 @@
 ## Pourquoi Multiplan ? (Le voyage dans le temps d'un quinqua) 😀
 #
-Ce projet est né d'une **émotion** : celle de retrouver, en 2026, le tableur **Multiplan** avec lequel j'ai découvert l'informatique il y a **40 ans**. 
+Ce projet est né d'une **émotion** : celle de retrouver, en 2026, le logiciel **Multiplan** avec lequel j'ai découvert l'informatique il y a **40 ans**. 
 #
 🛠️ Installation Rapide
 #
@@ -18,7 +18,7 @@ C'est tout ce **charme "vintage"** que ce projet vous permet de retrouver sur vo
 #
 🚗 Sur la route on croise des Peugeot 205, des Renault Supercinq, des  4L, des 2CV, des mobylettes type Peugeot 103, des solex... La Ford Scorpio est la voiture de l'année 🤣.
 #
-📻 Dans le Walkman, on écoute "Les démons de minuit", "En rouge et noir", "Capitaine abandonné", "En rouge et noir", "Tchiki boum"...
+📻 Dans le Walkman, on écoute "Les démons de minuit", "En rouge et noir", "Capitaine abandonné", "Tchiki boum"...
 #
 📺 Le look : C’est l’ère du fluo et des brushings volumineux...
 #
